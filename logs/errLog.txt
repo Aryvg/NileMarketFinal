@@ -1,0 +1,101 @@
+20260203	11:45:57	85b96ed0-5ffd-4350-9a86-c093a514ee29	Error:Not allowed by CORS
+20260204	07:34:12	90fdbb64-6943-40b6-9d85-0466b383fc99	TypeError:path.join is not a function
+20260204	07:34:15	90525472-914d-483e-8ccf-9cb0b27cd88d	TypeError:path.join is not a function
+20260204	07:36:13	f72d02ae-ec6b-4326-a482-943247f2f71b	TypeError:path.join is not a function
+20260204	07:38:30	232e7444-5f0a-407b-b952-70d22c81a858	TypeError:path.join is not a function
+20260204	08:11:11	ccca5f65-ddc1-4145-a909-3b200cf6939f	TypeError:Cannot read properties of undefined (reading 'firstname')
+20260204	08:12:18	4c13fea4-3f01-4314-9f85-15f73ffa0e27	TypeError:Cannot read properties of undefined (reading 'firstname')
+20260204	08:14:20	8e06a698-8087-4c46-bef1-adb043143d86	TypeError:Cannot read properties of undefined (reading 'firstName')
+20260204	08:14:22	ad257689-b251-4250-bb81-8f858c5e3bee	TypeError:Cannot read properties of undefined (reading 'firstName')
+20260204	08:14:23	99f567dc-ec59-44ac-818a-120cd92f492a	TypeError:Cannot read properties of undefined (reading 'firstName')
+20260204	08:14:24	489c39a9-fb0c-44f1-a394-85d6d2bd4f6f	TypeError:Cannot read properties of undefined (reading 'firstName')
+20260204	08:14:24	3f2759c5-100b-4133-996d-a35c98ed6a52	TypeError:Cannot read properties of undefined (reading 'firstName')
+20260204	08:14:50	2f210682-56a2-4c0e-aec7-2b95d6c445b9	TypeError:Cannot read properties of undefined (reading 'firstName')
+20260204	08:16:05	9eae31a2-68fe-4a0f-b68f-f5dd4cd519d9	TypeError:Cannot read properties of undefined (reading 'firstName')
+20260204	08:16:06	3fc169a6-0304-43c9-817e-99c0264be602	TypeError:Cannot read properties of undefined (reading 'firstName')
+20260204	08:16:06	a00bad17-5431-4d28-bad4-0914138887c5	TypeError:Cannot read properties of undefined (reading 'firstName')
+20260204	08:16:06	6cc567ff-616c-4f8e-8aba-4b4aa471b362	TypeError:Cannot read properties of undefined (reading 'firstName')
+20260204	08:16:07	a052723d-ea28-475e-9aab-818422746513	TypeError:Cannot read properties of undefined (reading 'firstName')
+20260204	08:16:07	f63531c4-36d1-4713-b9d5-21b0e172a200	TypeError:Cannot read properties of undefined (reading 'firstName')
+20260204	08:16:07	449e6b05-5ed2-4e5b-a11d-c70012e0fd24	TypeError:Cannot read properties of undefined (reading 'firstName')
+20260204	08:16:08	936f2619-8df7-4d14-b542-a2156e2e80ff	TypeError:Cannot read properties of undefined (reading 'firstName')
+20260204	08:16:44	1a2f64ef-76ff-4e86-88c6-e9a4d6cc7ae9	TypeError:Cannot read properties of undefined (reading 'firstName')
+20260204	08:16:54	cef034eb-4976-4cf8-bd84-9c9231cc85e7	TypeError:Cannot read properties of undefined (reading 'firstName')
+20260204	08:17:06	e3070334-9a65-466b-b83f-68715ca33ddb	TypeError:Cannot read properties of undefined (reading 'firstName')
+20260204	08:17:25	afb7fe1b-46c1-4c22-a89d-45ba754c2eb4	TypeError:Cannot read properties of undefined (reading 'firstName')
+20260204	08:19:10	e516c792-d16e-420b-8fc9-0f70aea3e9b7	TypeError:Cannot read properties of undefined (reading 'firstName')
+20260204	08:19:54	c750277e-b177-48bc-9afd-19702d773483	TypeError:Cannot read properties of undefined (reading 'firstName')
+20260204	08:19:55	4da57362-4c6b-4bcd-bc3a-fde0d944ffda	TypeError:Cannot read properties of undefined (reading 'firstName')
+20260204	08:19:55	fa485989-d99e-4a94-9d34-27c2f30b69fa	TypeError:Cannot read properties of undefined (reading 'firstName')
+20260204	08:20:02	cf4c4fdd-5510-4427-be72-44ae3c355619	TypeError:Cannot read properties of undefined (reading 'firstName')
+20260204	08:31:01	4be12c51-905f-49d3-aeb4-ec8fbfcc1e41	TypeError:Cannot read properties of undefined (reading 'firstname')
+20260204	08:43:45	3886b748-1702-4456-bb84-8c1d2a5526dd	TypeError:Cannot read properties of undefined (reading 'firstName')
+20260204	08:45:43	28fc9ca6-7e31-419d-ab4a-1d57be41d93a	TypeError:Cannot read properties of undefined (reading 'firstName')
+20260204	08:45:45	a74ffcb8-f40f-45ff-8912-1e9ac07dbbfc	TypeError:Cannot read properties of undefined (reading 'firstName')
+20260204	08:49:00	e3c47199-07b4-42f1-963f-d6f3d09c8151	TypeError:Cannot read properties of undefined (reading 'firstName')
+20260204	08:54:02	dc66bc1f-31c3-4807-83a8-b1696d3b0779	TypeError:Cannot read properties of undefined (reading 'firstName')
+20260204	08:57:03	18936080-ca1a-45d0-8799-e6f3e2cedaf7	TypeError:Cannot read properties of undefined (reading 'firstName')
+20260204	08:57:04	7d671f60-d913-4863-ba1a-2153778dcc3b	TypeError:Cannot read properties of undefined (reading 'firstName')
+20260204	11:21:25	3fb0e9c6-23a7-46c5-8b4f-002a99691457	TypeError:Cannot read properties of undefined (reading 'id')
+20260204	11:24:51	8ddd8645-d80e-4d05-881b-294d68720849	TypeError:Cannot read properties of undefined (reading 'id')
+20260205	07:39:58	cc8ce502-9766-4fba-8410-a01de79b6bd0	Error:Cannot set headers after they are sent to the client
+20260205	07:42:10	48eb128c-d3bd-4fcb-ba48-a4c72fcffd61	Error:Cannot set headers after they are sent to the client
+20260205	08:01:43	bdb6645f-1b31-4cac-ac32-4acad106fd34	TypeError:res.sendStaus is not a function
+20260207	06:54:58	883b4cb4-6ff6-4c75-b242-9d096abdea6f	TypeError:Cannot read properties of undefined (reading 'password')
+20260207	06:55:32	9b00060a-e22c-410d-a962-b5580465ac73	ReferenceError:accesjwt is not defined
+20260207	06:56:40	b60c3b41-c858-4b59-8752-591798f438a0	ReferenceError:fsPromises is not defined
+20260207	08:51:10	a8e244b7-a5b2-470a-9175-0e1c8ea09707	SyntaxError:Expected double-quoted property name in JSON at position 68 (line 2 column 45)
+20260207	08:51:30	c2c3775b-d3a4-4cb9-8bd0-ddc447a70665	SyntaxError:Expected double-quoted property name in JSON at position 62 (line 1 column 63)
+20260208	08:11:50	3d43e7a1-6099-4002-b3a5-346778874c4e	TypeError:Cannot read properties of undefined (reading 'password')
+20260209	06:54:35	e93435ad-e57d-42be-9a45-da910754048c	TypeError:Cannot read properties of undefined (reading 'password')
+20260209	06:54:46	5636090b-6c45-41bb-a467-8fe71ad25be8	TypeError:Cannot read properties of undefined (reading 'password')
+20260209	13:05:38	ef6729fb-5b26-4149-93d0-e6f67f0a8274	SyntaxError:Unexpected token 'e', "eyJhbGciOi"... is not valid JSON
+20260209	13:29:17	9e38dcb2-982d-4b2b-8300-8b31c701683c	CastError:Cast to ObjectId failed for value "2" (type number) at path "_id" for model "Employee"
+20260209	13:29:24	a3bc3825-4c32-4fbb-9ea0-6e0019c12d4a	CastError:Cast to ObjectId failed for value "1" (type number) at path "_id" for model "Employee"
+20260209	13:29:26	b40ca486-9d80-478d-9921-677de93d248c	CastError:Cast to ObjectId failed for value "1" (type number) at path "_id" for model "Employee"
+20260209	13:29:55	168b3abc-4a4b-4697-8d57-d270df423ac2	CastError:Cast to ObjectId failed for value "1" (type number) at path "_id" for model "Employee"
+20260209	13:30:17	b8717b84-0f1f-47db-84ce-0bbb557992cb	SyntaxError:Expected ',' or '}' after property value in JSON at position 16 (line 1 column 17)
+20260209	16:27:52	978fbdc2-e68c-478a-bdb7-8df6c0a8fb33	SyntaxError:Unexpected non-whitespace character after JSON at position 349 (line 1 column 350)
+20260209	16:28:26	e1100211-7116-43d5-8e70-4d9ecdf07ebc	SyntaxError:Expected ',' or '}' after property value in JSON at position 348 (line 1 column 349)
+20260209	16:28:27	e50b469a-4546-46cc-bfa2-ad7a75a081e5	SyntaxError:Expected ',' or '}' after property value in JSON at position 348 (line 1 column 349)
+20260210	09:59:45	8c62edf8-d544-47ac-b355-895d30ff96a2	Error:Not allowed by CORS
+20260210	10:02:21	16c754cc-7651-4a98-97b7-0790fecaf0dd	Error:Not allowed by CORS
+20260210	10:02:45	f50ff125-e724-4b5e-953b-9870ea4d656e	Error:Not allowed by CORS
+20260210	10:54:49	c4d42931-231e-417e-852a-32b9f503ee8d	SyntaxError:Expected ',' or '}' after property value in JSON at position 30 (line 1 column 31)
+20260210	10:55:12	fe050aab-1f08-406a-8d9a-e9bd5e09f779	SyntaxError:Expected ',' or '}' after property value in JSON at position 30 (line 1 column 31)
+20260210	13:12:48	e497a609-709e-46e2-a851-96f69a2be9d8	SyntaxError:Expected double-quoted property name in JSON at position 76 (line 6 column 1)
+20260212	12:29:55	b4bb1f4b-314b-4e01-852e-cfbdc8cd4e59	SyntaxError:Expected double-quoted property name in JSON at position 371 (line 1 column 372)
+20260212	13:00:37	303273b2-4a62-47a2-a5a8-c67b4519557a	MongoServerSelectionError:getaddrinfo ENOTFOUND ac-hfddnkv-shard-00-01.xzwcjir.mongodb.net
+20260212	13:00:37	45c34d5a-b39b-40b8-bcb1-ff9b47a1dd31	MongoServerSelectionError:getaddrinfo ENOTFOUND ac-hfddnkv-shard-00-01.xzwcjir.mongodb.net
+20260216	06:15:56	8586d3d2-1795-4068-9b6f-22791d08c687	SyntaxError:Expected ',' or ']' after array element in JSON at position 148 (line 5 column 12)
+20260218	07:01:07	af635a2d-9ff1-4b97-9b20-e85c60b1bb61	MongoServerSelectionError:getaddrinfo ENOTFOUND ac-jncij3j-shard-00-00.hjiwgog.mongodb.net
+20260218	07:01:07	947db73d-d38e-4602-8ccd-62a4236ed55c	MongoServerSelectionError:getaddrinfo ENOTFOUND ac-jncij3j-shard-00-00.hjiwgog.mongodb.net
+20260218	07:01:37	e35bb5c7-aa63-4d31-b982-c1adaf725eea	MongoServerSelectionError:getaddrinfo ENOTFOUND ac-jncij3j-shard-00-00.hjiwgog.mongodb.net
+20260218	07:19:40	73f87633-5fca-4c85-a3cd-f9d0afc3b175	MongoServerSelectionError:getaddrinfo ENOTFOUND ac-jncij3j-shard-00-00.hjiwgog.mongodb.net
+20260218	07:19:40	d8d720da-b2c6-46e7-b0fb-20c2c6205773	MongoServerSelectionError:getaddrinfo ENOTFOUND ac-jncij3j-shard-00-00.hjiwgog.mongodb.net
+20260218	07:20:10	867d35cb-8105-47cf-a1d6-3f85cbea67e3	MongoServerSelectionError:getaddrinfo ENOTFOUND ac-jncij3j-shard-00-00.hjiwgog.mongodb.net
+20260218	07:20:51	5cbf72e4-d364-4cb8-91bd-0857989609fd	MongoServerSelectionError:getaddrinfo ENOTFOUND ac-jncij3j-shard-00-00.hjiwgog.mongodb.net
+20260218	07:21:03	e38f4c41-701a-4dff-84f2-ae850d023742	MongoServerSelectionError:getaddrinfo ENOTFOUND ac-jncij3j-shard-00-00.hjiwgog.mongodb.net
+20260218	07:21:11	2893c9b2-3726-4c10-82ce-a2f82b3f22bd	MongoServerSelectionError:getaddrinfo ENOTFOUND ac-jncij3j-shard-00-00.hjiwgog.mongodb.net
+20260218	07:21:11	a1f20c80-7075-4267-a081-9cd18ef0abd0	MongoServerSelectionError:getaddrinfo ENOTFOUND ac-jncij3j-shard-00-00.hjiwgog.mongodb.net
+20260218	07:21:21	29dc4c31-8d36-4e50-8913-bed59c28e822	MongoServerSelectionError:getaddrinfo ENOTFOUND ac-jncij3j-shard-00-00.hjiwgog.mongodb.net
+20260218	07:21:51	674ae988-59df-4cef-9a50-6c68109ffb2e	MongoServerSelectionError:getaddrinfo ENOTFOUND ac-jncij3j-shard-00-00.hjiwgog.mongodb.net
+20260219	08:03:03	c7fe54f2-13dc-4959-92c3-bc857f995995	MongoServerSelectionError:getaddrinfo ENOTFOUND ac-jncij3j-shard-00-00.hjiwgog.mongodb.net
+20260219	08:03:33	cf3caabd-fe5b-40a9-b8c1-caec9e1dc814	MongoServerSelectionError:getaddrinfo ENOTFOUND ac-jncij3j-shard-00-00.hjiwgog.mongodb.net
+20260219	08:31:38	567a9950-eca1-4f28-81ad-c9b05ad2f0e1	MongoServerSelectionError:getaddrinfo ENOTFOUND ac-jncij3j-shard-00-00.hjiwgog.mongodb.net
+20260219	08:32:08	c9509a01-a3df-4af6-91b9-a22f3a3cd551	MongoServerSelectionError:getaddrinfo ENOTFOUND ac-jncij3j-shard-00-00.hjiwgog.mongodb.net
+20260223	07:47:36	7f893f1a-c746-41d2-a94c-63108482fa93	MongoServerSelectionError:connection <monitor> to 159.41.64.101:27017 timed out
+20260223	07:47:36	71c47392-0167-453d-a56c-9bd3f501491e	MongoServerSelectionError:connection <monitor> to 159.41.64.101:27017 timed out
+20260223	07:47:36	c071c12e-87e0-4c50-b62c-a55b6824a507	MongoServerSelectionError:connection <monitor> to 159.41.64.101:27017 timed out
+20260223	07:47:37	74e3dbe8-4eab-40ea-9dfa-dabc2bbe33b1	MongoServerSelectionError:connection <monitor> to 159.41.64.101:27017 timed out
+20260223	07:47:38	03a6dee6-078e-40f3-8e87-c8d0b6f437dc	MongoServerSelectionError:connection <monitor> to 159.41.64.101:27017 timed out
+20260223	07:47:38	2738b661-5ba6-44e2-b521-3668ad8b2cc3	MongoServerSelectionError:connection <monitor> to 159.41.64.101:27017 timed out
+20260223	07:47:44	52d1249d-8b16-4fa6-af45-feb1a3a331cb	MongoServerSelectionError:connection <monitor> to 159.41.64.101:27017 timed out
+20260224	17:23:15	83dabb7e-b0f9-4cfe-aeba-a82aa85f0029	MongoServerSelectionError:getaddrinfo ENOTFOUND ac-jncij3j-shard-00-00.hjiwgog.mongodb.net
+20260224	17:23:15	6537523f-f7da-406e-986a-8e225d861730	MongoServerSelectionError:getaddrinfo ENOTFOUND ac-jncij3j-shard-00-00.hjiwgog.mongodb.net
+20260224	17:23:15	00feaeff-74c8-4974-a2bd-e56085637aaa	MongoServerSelectionError:getaddrinfo ENOTFOUND ac-jncij3j-shard-00-00.hjiwgog.mongodb.net
+20260224	17:23:15	7485574f-1ee3-4c53-a980-df0bf5847408	MongoServerSelectionError:getaddrinfo ENOTFOUND ac-jncij3j-shard-00-00.hjiwgog.mongodb.net
+20260224	17:23:15	5e20f11d-881c-411b-9d91-cd9e1894ce19	MongoServerSelectionError:getaddrinfo ENOTFOUND ac-jncij3j-shard-00-00.hjiwgog.mongodb.net
+20260224	17:23:15	4e2719c8-c0c7-4499-99e4-b3037b54ee0e	MongoServerSelectionError:getaddrinfo ENOTFOUND ac-jncij3j-shard-00-00.hjiwgog.mongodb.net
+20260224	18:50:26	40ca7b42-6ddd-48a0-a5aa-613abb74f2c9	MongoServerSelectionError:getaddrinfo ENOTFOUND ac-jncij3j-shard-00-00.hjiwgog.mongodb.net
+20260224	18:50:48	29036614-2f6a-4a22-8d54-bba550190908	MongoServerSelectionError:getaddrinfo ENOTFOUND ac-jncij3j-shard-00-00.hjiwgog.mongodb.net

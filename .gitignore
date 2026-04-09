@@ -1,0 +1,5 @@
+node_modules
+.env
+# Ignore uploaded product images stored by the server
+# Keeps new files under backend/public/images/ out of git
+/public/images/**
